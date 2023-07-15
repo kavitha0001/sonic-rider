@@ -39,3 +39,9 @@ Some of the listed features implemented are :
 
 <h2>Route deviations</h2>
   Alert blind passengers about any route deviations or detours that may occur during the trip. The voice notifications can provide explanations for the changes and estimated additional travel time, if applicable.
+
+## To run the app
+
+First clone this repository in your machine
+To run the app, install all the dependencies in pubspec.yaml
+Add your own firebase account 
