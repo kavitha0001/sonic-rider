@@ -1,4 +1,4 @@
-# Sonic Rider- Taxi booking App UI!
+# Sonic Rider- Taxi booking App UI for visually impaired!
 
 Hi! This is the clone to the App based Taxi booking Services like Uber using Flutter for blind people. This app is a game-changer for blind passengers using taxis or ride-sharing services. Designed with accessibility and independence in mind, it provides a seamless experience through audio-based features. With a user-friendly interface, the app allows blind individuals to book rides, manage trip details, and communicate with drivers effortlessly using voice commands. Real-time trip updates keep them informed throughout the journey, addressing the lack of visual cues. The app's innovative approach empowers blind passengers to navigate the world of transportation with confidence, ensuring inclusivity and enhancing their overall mobility experience.
 
