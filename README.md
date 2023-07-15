@@ -17,7 +17,6 @@ src="screenshots/9.jpeg" width="220" height="440"><img
 src="screenshots/10.jpeg" width="220" height="440"><img
 src="screenshots/11.jpeg" width="220" height="440"><img
 src="screenshots/12.jpeg" width="220" height="440"><img
-src="screenshots/13.jpeg" width="220" height="440"><img
 src="screenshots/14.jpeg" width="220" height="440"><img
 src="screenshots/15.jpeg" width="220" height="440">
 </p>
