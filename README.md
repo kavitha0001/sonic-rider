@@ -42,6 +42,4 @@ Some of the listed features implemented are :
 
 ## To run the app
 
-First clone this repository in your machine
-To run the app, install all the dependencies in pubspec.yaml
-Add your own firebase account 
+First clone this repository in your machine. To run the app, install all the dependencies in pubspec.yaml. Then run the main.dart file in your own ide.
